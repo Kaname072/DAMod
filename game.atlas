@@ -4,31 +4,67 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Monument Delta
   rotate: false
   xy: 112, 4
-  size: 100, 100
+  size: 200, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Palace Delta
   rotate: false
-  xy: 220, 4
+  xy: 300, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+BuildingIcons/Butterfly Garden
+  rotate: false
+  xy: 400, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/School Dance
+  rotate: false
+  xy: 500, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Deltas Kingdom
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+NationIcons/Lambda Kingdom
   rotate: false
-  xy: 328, 4
+  xy: 100, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Assasin Delta
+  rotate: false
+  xy: 600, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Amazon Warrior
+  rotate: false
+  xy: 700, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Amazon Warrior
+  rotate: false
+  xy: 800, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
