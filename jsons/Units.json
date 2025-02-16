@@ -11,7 +11,7 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
-	}
+	},
 	{	
 		"name": "Lambda Spearman",
 		"uniqueTo": "Lambda Kingdom"
@@ -25,7 +25,7 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
-	}
+	},
         { 
 		"name": "Amazon Warrior",
 		"uniqueTo": "Deltas Kingdom",
