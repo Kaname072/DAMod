@@ -1,25 +1,46 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Monument Delta",
+		"uniqueTo": "Deltas Kingdom",
+		"replaces": "Monument",
+		"culture": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "Butterfly Garden",
+		"uniqueTo": "Deltas Kingdom",
+		"replaces": "Granary",
+		"food": 5,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{ 
+		"name": "School Dance",
+		"uniqueTo": "Lambda Kingdom",
+		"replaces": "Theatre",
+		"happiness": 5,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+	{
+		"name": "Palace Delta",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Deltas Kingdom",
+		"cityStrength": 9,
+		"cityHealth": 40,
+		"culture": 5,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+5 Production] [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
 ]
