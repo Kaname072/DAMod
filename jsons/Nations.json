@@ -32,7 +32,7 @@
 		"uniqueName": "Liberdade e Fé",
 		"unique": "[+4 Happiness] [in all cities]","[+4 Faith] [in all cities]",
 		"cities": ["Eden","Nar","Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis"]
-	}
+	},
 	{       "name": "Lambda Kingdom",
                 "leaderName": "Konrad Lancer",
 		"adjective": ["Lambdas"],
