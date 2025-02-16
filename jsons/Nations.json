@@ -1,38 +1,69 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Deltas Kingdom",
+		"leaderName": "Nikolas Alencar",
+		"adjective": ["Deltas"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Olá! eu sou o príncipe dos Deltas! Nikolas Alencar",
+		"startIntroPart2": "Depois de sofremos na mão da antiga rainha reunimos nossa força e vamos criar um novo Império Delta!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Iremos trazer paz as suas terras!",
+		"attacked": "Épico",
+		"defeated": "Impossível...",
+		"introduction": "Bom dia",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Olá...",
+		"neutralLetsHearIt": ["Tanto faz","É sério?","Se você começar..."],
+		"neutralNo": ["Não...","Saia...","Recuso..."],
+		"neutralYes": ["Legal...","Ótimo...","Ah, tá..."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "E agora? quer oque?",
+		"hateLetsHearIt": ["Vaza!!","Saia agora!!","Eu não ligo!"],
+		"hateNo": ["Nunca","Não aceito","Imperdoável"],
+		"hateYes": ["Tá bom...","Então tá...","Tudo bem..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Estava ficando chato já...",
+		"tradeRequest": "Então...",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Liberdade e Fé",
+		"unique": "[+4 Happiness] [in all cities]","[+4 Faith] [in all cities]",
+		"cities": ["Eden","Nar","Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis"]
 	}
+	{       "name": "Lambda Kingdom",
+                "leaderName": "Konrad Lancer",
+		"adjective": ["Lambdas"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Olá! eu sou o príncipe dos Lambdas! Konrad Lancer",
+		"startIntroPart2": "Depois de passamos por guerras vamos criar um novo Império Lambda!",
+		
+		"declaringWar": "Precisamos expandir! você está no nosso caminho!!",
+		"attacked": "haha!",
+		"defeated": "Impossível! iremos voltar! é uma promessa!",
+		"introduction": "Bom dia",
+		
+		"neutralHello": "Olá!",
+		"neutralLetsHearIt": ["Tanto faz!","É sério?","Se você começar"],
+		"neutralNo": ["Não desculpe!","Recuso, foi mal","Não, foi mal!"],
+		"neutralYes": ["Sim! Sim! Sim!.","Tudo bem!","Parece legal!"],
+
+		"hateHello": "E agora? quer oque?",
+		"hateLetsHearIt": ["Vaza!!","Saia agora!!","Eu não ligo!"],
+		"hateNo": ["Nunca","Não aceito","Imperdoável"],
+		"hateYes": ["Tá bom...","Então tá...","Tudo bem..."],
+		
+		"afterPeace": "Estava ficando chato já...",
+		"tradeRequest": "Isso parece bom?",
+
+		"outerColor": [18,10,143],
+		"innerColor": [0,0,0],
+		"uniqueName": "Liberdade e Honra",
+		"unique": "[+4 Culture] [in all cities]","[+3 Production] [in all cities]",
+		"cities": ["Sodoma","Gamorra","Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
+
 ]
